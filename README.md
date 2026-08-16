@@ -5,7 +5,7 @@ A simple browser-based Bird Flying Game inspired by the classic Flappy Bird conc
 
 The project is built using only HTML, CSS, and JavaScript, with no external libraries or frameworks.
 
-Deployment : 
+Deployment : https://bird-flying-game.vercel.app/
 
 🎮 Game Features
 Bird movement using gravity.
